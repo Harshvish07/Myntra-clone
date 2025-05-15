@@ -1,5 +1,6 @@
 [build]
-  command = ""
+  publish = "."     # "." means the current folder
+  command = ""      # no build command for plain HTML
 
 [[redirects]]
   from = "/*"
