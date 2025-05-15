@@ -1,6 +1,6 @@
 [build]
-  publish = "public" # Change "public" to your HTML folder if different
-  command = ""       # No build command needed for plain HTML
+  publish = "public"
+  command = ""
 
 [[redirects]]
   from = "/*"
